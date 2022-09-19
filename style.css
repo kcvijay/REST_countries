@@ -20,7 +20,7 @@ main {
 }
 
 .country {
-  max-width: 300px;
+  max-width: 400px;
   border: 1px solid black;
   margin: 0 30px;
 }
@@ -28,4 +28,5 @@ main {
 .country-img {
   height: 200px;
   max-width: 100%;
+  border-bottom: 1px solid #000;
 }
